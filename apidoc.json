@@ -1,0 +1,14 @@
+{
+"name":"",
+"version":"2.0.0",
+"title":"",
+"url":"http://dev-dc.wead.cc/",
+"order": [
+    "portraitbi_activate_user_month",
+    "portraitbi_activate_user_week",
+    "portraitbi_all_user_num",
+    "operatingbi_set_custom_channel_setting",
+    "operatingbi_list_custom_channel_budget",
+    "operatingbi_list_custom_bi"
+]
+}
