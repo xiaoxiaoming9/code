@@ -10,8 +10,6 @@ def listPlatformWeAD(_params):
     rows = db.SQL_DW(sql)
     output = []
     params = {}
-    params = collections.OrderedDict()
-    rests = {'id': 100, 'name': '其它', 'childen': []}
     for row in rows:
         rd = dw_utils.Dict()
         rd.id = row['platform_id']
